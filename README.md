@@ -1,4 +1,4 @@
-# WebGL Unity Template for WebGL Multiplayer Kit
+# WebGL Unity Templates for WebGL Multiplayer Kit
  templates for Unity 2019 and Unity 2020.
  Instructions:
 1. Download the WebGL Templates folder and extract it to your project's assets folder;
